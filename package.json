@@ -5,12 +5,16 @@
   "main": "server.js",
   "dependencies": {
     "express": "^4.16.3",
-    "node": "^10.8.0",
     "socket.io": "^2.1.1"
   },
   "devDependencies": {},
   "scripts": {
+<<<<<<<<< saved version
+  "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+=========
+    "start": "node server.js"
+>>>>>>>>> local version
   },
   "repository": {
     "type": "git",
